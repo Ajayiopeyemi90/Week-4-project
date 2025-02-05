@@ -13,6 +13,8 @@ public class FindingFriday{
             LocalDate date = LocalDate.of(thisYear.getValue(), month, 13); // Set the 13th day of the month
             if (date.getDayOfWeek() == DayOfWeek.FRIDAY) { // Check if it's a Friday
                 System.out.println("The only friday with 13 in " + thisYear+ " is " + date);
+            }else {
+                No Friday the 13th found in 2025
             }
         }
     }
