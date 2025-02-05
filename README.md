@@ -36,9 +36,32 @@ This project demonstrates the use of Java's `java.time` package to perform date 
    java week4Project.NumberOfDays
    java week4Project.FindingFriday
    ```
+## Expected Output Examples
+### **Main.java Output Example**
+```
+2025-02-03
+2025-02-10
+2025-02-17
+2025-02-24
+```
 
-## Dependencies
-- Java 8 or later (for `java.time` package support)
+### **NumberOfDays.java Output Example**
+```
+The number of days in different months in 2025 are:
+JANUARY: 31 days.
+FEBRUARY: 28 days.
+MARCH: 31 days.
+...
+DECEMBER: 31 days.
+```
+
+### **FindingFriday.java Output Example**
+```
+Friday the 13th found on: 2025-06-13
+```
+If there is no Friday the 13th in the current year, it prints:
+```
+No Friday the 13th found in 2025
 
 ## Author
 Opeyemi Ajayi
