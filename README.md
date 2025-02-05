@@ -62,6 +62,7 @@ Friday the 13th found on: 2025-06-13
 If there is no Friday the 13th in the current year, it prints:
 ```
 No Friday the 13th found in 2025
+```
 
 ## Author
 Opeyemi Ajayi
